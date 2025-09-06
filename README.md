@@ -14,18 +14,18 @@
 
 ---
 
-## 🔧 Tech & Tools
-- **Languages:** Python, C++, JavaScript, HTML/CSS  
-- **Frameworks/Tools:** ROS2, NumPy, Pandas, OpenCV  
-- **Other Skills:** CAD design, prototyping, data analysis  
+## 🌟 Highlights
+- Built a **custom handwriting recognition AI** with NumPy & Pandas (no TensorFlow/PyTorch)  
+- Interned as a **Web Development & AI Integration Intern** at Harb Real Estate – improving website performance and social media engagement  
+- Interned as a **Project Manager** at COPE Family Health Clinic - leading a team of four to improve the clinic's Wesite and social medai presence 
+- Experienced **camp counselor & mentor** – four years guiding and leading youth programs  
 
 ---
 
-## 🌟 Highlights
-- Designed an **attention model** for prosthetic hand control using EMG signals  
-- Built a **custom handwriting recognition AI** with NumPy & Pandas (no TensorFlow/PyTorch)  
-- Interned as a **Web Development & AI Integration Intern** at Harb Real Estate – improving website performance and social media engagement  
-- Experienced **camp counselor & mentor** – three years guiding and leading youth programs  
+## 🔧 Tech & Tools
+- **Languages:** Python, C++, HTML/CSS, JavaScript
+- **Frameworks/Tools:** NumPy, Pandas, OpenCV, PyTorch, Tensorflow  
+- **Other Skills:** CAD design (SolidWorks), prototyping, data analysis  
 
 ---
 
@@ -34,21 +34,3 @@
 - 🌐 [Flickr](https://www.flickr.com/people/202613784@N08/)
 
 ---
-
-✨ *Always exploring the intersection of AI, robotics, and human-centered design.*
-
-
-<!--
-**proneo14/proneo14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
