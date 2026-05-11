@@ -9,21 +9,21 @@
 <h4 align="left">Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,golang,python,rust,cpp,c,html,css,bash,powershell&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,golang,python,rust,cpp,c,zig,html,css,bash,powershell&theme=dark" />
   </a>
 </p>
 
 <h4 align="left">Frameworks & Libraries</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,npm,pytorch,tensorflow,opencv,flask,pycharm,mongo,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,electron,nodejs,npm,tailwind,pytorch,tensorflow,opencv,flask,pycharm,mongo,postgres,sqlite&theme=dark" />
   </a>
 </p>
 
 <h4 align="left">Tools</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,ubuntu,visualstudio,clion,anaconda,matlab,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,cloudflare,linux,ubuntu,visualstudio,clion,anaconda,matlab,arduino&theme=dark" />
   </a>
 </p>
 
