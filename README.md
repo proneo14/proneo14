@@ -32,9 +32,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/proneo14/github-stats/generated/overview.svg" alt="Stats Overview" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/proneo14/github-stats/generated/languages.svg" alt="Most Used Languages" />
+  <img src="https://raw.githubusercontent.com/proneo14/github-stats/generated/overview.svg" alt="Stats Overview" width="420" />&nbsp;<img src="https://raw.githubusercontent.com/proneo14/github-stats/generated/languages.svg" alt="Most Used Languages" width="420" />
 </p>
 
 ---
